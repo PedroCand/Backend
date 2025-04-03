@@ -1,2 +1,2 @@
-//Primeiro Olá mundo!
+//Primeiro Olá
 console.log('hello, world!');
