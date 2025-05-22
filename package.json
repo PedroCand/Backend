@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "atividade-01.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroCand/Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroCand/Backend/issues"
+  },
+  "homepage": "https://github.com/PedroCand/Backend#readme",
+  "description": ""
+}

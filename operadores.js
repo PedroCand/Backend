@@ -14,7 +14,7 @@ console.log(comp);
 
 //3
 let num = 17;
-let compa = num > 18 ? 'maior de idade' : 'menor de idade'
+let compa = num >= 18 ? 'maior de idade' : 'menor de idade'
 console.log(compa);
 
 //4
